@@ -1,0 +1,1 @@
+ Implement a basic neural network from scratch to classify MNIST handwritten digits. Steps include loading and preprocessing the dataset, building the network with forward and backward propagation, and training it to achieve good accuracy.
